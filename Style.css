@@ -1,13 +1,13 @@
-body{
+.t1body {
     margin: 1cm;
 }
-h1{
+.t1h1{
     color: green;  
     text-align: center;
 }
-p{
+.t1p{
     font: italic
 }
-a:hover{
+.t1a:hover{
     background-color: blue;
 }
