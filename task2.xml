@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sortwares>
+
+<types attribute="1">
+  <x>Operating systems</x>
+  <y>it consists of computer programs that instruct the execution of a computer.</y>
+  <z>The history of software is closely tied to the development of digital computers in the mid-20th century.</z>
+  </types>
+
+<Operating-systems a="1">
+ <definition> Operating systems are the layer of software that manages a computer's resources for its users and their applications</definition>
+  <info1>Allocating resources</info1>
+  <info2>Providing an interface</info2>
+  <info3>Offering common services</info3>
+  </Operating-systems>
+
+<Application-software attribute="1">
+  <what-is-it>Application software runs on top of the operating system and uses the computer's resources to perform a task.</what-is-it>
+  <software-types>some of the softwre types include</software-types>
+  <example1>system softwares</example1>
+  <example2>application softwares</example2>
+  </Application-software>
+
+
+  </softwares>
